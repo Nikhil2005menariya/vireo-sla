@@ -1,0 +1,21 @@
+{
+  "pre_window": {
+    "breaches": 211,
+    "tickets": 2266,
+    "rate": 0.0931
+  },
+  "post_window": {
+    "breaches": 2229,
+    "tickets": 8934,
+    "rate": 0.2495,
+    "months": 12
+  },
+  "annual_sla_credit_now_inr": 780150,
+  "annual_sla_credit_at_baseline_inr": 291163,
+  "annual_excess_credit_inr": 488987,
+  "chat_structural_breaches_post": 1034,
+  "chat_controllable_breaches_post": 252,
+  "recoverable_structural_credit_per_year_inr": 361900,
+  "recoverable_structural_credit_per_quarter_inr": 90475,
+  "coachable_credit_per_year_inr": 88200
+}
